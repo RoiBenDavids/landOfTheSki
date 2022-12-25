@@ -1,0 +1,4 @@
+site,name,codeName,description,extras,,,,basicMealType,email
+,,,,bed,,,breakfast,,
+,,,,adult,child,infant,,,
+gudauri,loft hotel,loftHotel,loft hotel,75 GEL,60 GEL,0,45 GEL,hb,example@loftHotel.com
